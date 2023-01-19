@@ -1,7 +1,7 @@
 # ViT and DeiT on Unconstrained Ear Recognition
 ##### A mini-project in EE298Z - Deep Learning
-#####Performed by Marwin B. Alejo
-#####[Published in JJCIT December 2021 Issue](https://www.jjcit.org/paper/143/UNCONSTRAINED-EAR-RECOGNITION-USING-TRANSFORMERS)
+##### Performed by Marwin B. Alejo
+##### [Published in JJCIT December 2021 Issue](https://www.jjcit.org/paper/143/UNCONSTRAINED-EAR-RECOGNITION-USING-TRANSFORMERS)
 
 ### Abstract
 This mini-project extends Transformer Networks, Vision-Transformer (ViT) and Data-efficient image Transformers (DeiT) to be specific, to the Unconstrained Ear Recognition Task using the first 20 classes of EarVN1.0 [8] on Google Colab TPU node for ViT and GPU node on DeiT. The ViT model achieved a validation accuracy of 95% @ 20 epochs while 88.33% to 96.11 @ 20-50 epochs. These results are closely comparable with the CNN-based accuracy results of SOTA architectures through transfer learning and these architectures may practically be used as an alternative for an end-to-end development of an ear recognition system.
